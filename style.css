@@ -49,6 +49,7 @@
             tr, th, input {
                 font-size: 13px;
                 width: 69px;
+                text-align: center;
             }
         }
 
